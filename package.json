@@ -1,0 +1,24 @@
+{
+  "name": "danmos-elite-properties",
+  "version": "1.0.0",
+  "description": "Premium real estate sales, management, investment advisory, and letting services in Ibadan, Nigeria.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --host"
+  },
+  "keywords": [
+    "real estate",
+    "properties",
+    "ibadan",
+    "nigeria"
+  ],
+  "author": "Danmos Elite Properties",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
